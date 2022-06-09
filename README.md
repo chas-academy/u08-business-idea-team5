@@ -1,5 +1,5 @@
 # Grupp 5 - Hello World(s) 
-## Louise, Simon M, Paulina, Nova, Onur, Alisher, Simon D
+## Sandra, Louise, Simon M, Paulina, Nova Onur, Alisher, Simon D
 
 
 Frontend Repo: 
